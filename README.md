@@ -1,2 +1,12 @@
-# ws9409lab
-ICBD of CYCU student self introduce
+# 嗨，我是廖冠婷
+
+我是中原大學的學生，目前正在學習計算機概論
+
+## 關於我
+- 系級:智運三甲
+- 正在學習:python、GitHub
+- 感興趣的主題:寫網站
+- 這學期的目標:能獨立完成編程
+
+## 我的作品
+[中原智運網站](https://icbd.cycu.edu.tw/)
